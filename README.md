@@ -1,2 +1,6 @@
-# Power-Bi
-Algunos Proyectos de Power-BI
+## Power-Bi
+
+Algunos **dashboard** que he realizado con Power-BI
+
+
+![](im.gif)
